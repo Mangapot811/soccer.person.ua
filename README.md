@@ -1,6 +1,8 @@
 <html>
     <head>
-    <title>soccerperson.ua</title>
+    <title>
+        soccerperson.ua
+    </title>
      </head>
     <body>
      <header>
